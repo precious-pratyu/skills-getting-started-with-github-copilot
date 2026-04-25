@@ -8,6 +8,17 @@ Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
+## Running the backend tests
+
+To run the new FastAPI backend tests:
+
+```bash
+pip install -r requirements.txt
+pytest -q
+```
+
+The tests live in the `tests/` directory and cover the activity signup and participant removal API behavior.
+
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/precious-pratyu/skills-getting-started-with-github-copilot/issues/1)
 
 ---
